@@ -21,7 +21,7 @@ Bienvenue dans **Terminal Ronan**, une interface en ligne de commande personnali
 2. Rendez `main.sh` exécutable :
    ```bash
    chmod +x main.sh
-````
+   ````
 
 3. Lancez le terminal :
 
