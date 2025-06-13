@@ -1,0 +1,3 @@
+profil2(){
+    echo " Anakin Skywalker , 46 ans , Jedi Knight , 1m85 , 80kg , Cheveux bruns , Yeux bleus , Peau claire , Vêtements noirs , Sabre laser bleu , Originaire de Tatooine , Aime les courses de pods , Marié à Padmé Amidala , Père de Luke et Leia , Ancien pilote de chasse de la République , A combattu dans la Guerre des Clones , A été formé par Obi-Wan Kenobi , A basculé du côté obscur pour devenir Dark Vador"
+}

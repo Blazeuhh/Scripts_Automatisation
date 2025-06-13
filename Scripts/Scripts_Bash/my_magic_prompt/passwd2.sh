@@ -1,0 +1,3 @@
+passwd2(){
+    passwd "$@"
+}

@@ -1,0 +1,18 @@
+help2() {
+    echo "quit/exit: Elle permet de quitter le programme."
+    echo "ls : Liste des fichiers et les dossiers visible comme cachés"
+    echo "help: Affiche cette aide."
+    echo "rm/rmdir: Permet de supprimer un fichier ou un répertoire."
+    echo "about: Affiche des informations sur le programme."
+    echo "cd: Permet de changer de répertoire."
+    echo "version: Affiche la version du programme."
+    echo "age: Demande l'âge de l'utilisateur."
+    echo "profile: Affiche le profil de l'utilisateur."
+    echo "passwd: Permet de changer le mot de passe de l'utilisateur."
+    echo "pwd: indique le répertoire de travail actuel."
+    echo "hour: Affiche l'heure actuelle."
+    echo " *: Affiche la liste des commandes disponibles."
+    echo "httpget : Permet de télécharger le code source html d'une page web."
+    echo "smtpget : Permet d'envoyer un email via SMTP."
+    echo "open: Ouvrir un fichier dans l'editeur vim même si le fichier n'existe pas."
+}
